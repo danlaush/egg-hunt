@@ -1,0 +1,102 @@
+{
+  "players": [
+    "Mum",
+    "Dad",
+    "Tom",
+    "Dan"
+  ],
+  "items": [
+    {
+      "type": "solo",
+      "description": "Wear something as a hat that isn't a hat!"
+    },
+    {
+      "type": "group",
+      "description": "Everyone does a drawing challenge: closest to what I describe wins"
+    },
+    {
+      "hasEgg": true
+    },
+    {
+      "type": "group",
+      "description": "Everyone has to find something green and shiny the house – First one back wins"
+    },
+    {
+      "type": "group",
+      "description": "Go to the Facebook chat and type the word 'Mum'. Select from the words predictive text gives you until you have a 'poem' (or funny sentence). – Best (by group consensus) wins."
+    },
+    {
+      "hasEgg": true
+    },
+    {
+      "type": "group",
+      "description": "Go to Amazon.com. Find the funniest product made of chocolate – Funniest (by group consensus)  wins"
+    },
+    {
+      "hasEgg": true
+    },
+    {
+      "type": "solo",
+      "description": "Go to the pantry and pick a food that represents each member of the group (one food per person). Post a picture in the chat with an explanation of why you chose that." 
+    },
+    {
+      "type": "solo",
+      "description": "Change your zoom background to a picture that makes it look like an animal is trying to eat you"
+    },
+    {
+      "type": "group",
+      "description": "In the Facebook chat I'll send five sets of emojis which represent the title of a TV show. Write down which show it is – Person with the most correct answers wins"
+    },
+    {
+      "type": "group",
+      "description": "Everyone find a long string-like object (maybe a charging cable, measuring tape or actual string). Curl it to write the word 'mother' – Most legible wins "
+    },
+    {
+      "hasEgg": true
+    },
+    {
+      "type": "group",
+      "description": "You have 2mins to collect as many types of items that start with M as possible. No multiples of the same item – Most different items wins."
+    },
+    {
+      "hasEgg": true
+    },
+    {
+      "type": "group",
+      "description": "In teams of two, everyone has to take a panorama, try to get your team mate in it as many times as possible – Most appearances wins both people an egg "
+    },
+    {
+      "type": "solo",
+      "description": "Find something floral to wear and put it on"
+    },
+    {
+      "type": "group",
+      "description": "Everyone create a self portrait with objects from around the house – Most accurate wins"
+    },
+    {
+      "hasEgg": true
+    },
+    {
+      "type": "solo",
+      "description": "Use Facebook messenger to take a selfie and draw on it so you look like your face is emerging from a bouquet. Share it in our chat."
+    },
+    {
+      "type": "group",
+      "description": "Everyone has 30 seconds to go and grab the longest book they can find. Longest wins."
+    },
+    {
+      "hasEgg": true
+    },
+    {
+      "type": "group",
+      "description": "You have 2mins to put on as many tops as you can – Person wearing the most tops at the end of 2mins wins"
+    },
+    {
+      "type": "solo",
+      "description": "Stack three round fruit (apples, mandarins etc) on top of each other – it has to stand on its own for three seconds"
+    },
+    {
+      "hasEgg": true
+    }
+  ]
+}
